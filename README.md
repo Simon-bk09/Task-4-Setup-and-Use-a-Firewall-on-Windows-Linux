@@ -38,10 +38,10 @@ Configure and test basic **firewall rules** to allow or block specific **program
 - Go to **Inbound Rules** → lists all active program and service rules.
 <img width="1042" height="647" alt="in" src="https://github.com/user-attachments/assets/96165aa1-cf74-4213-be58-5eea24edcb90" />
 
-
 ### Step 4: Create a Rule to Block a Program
 1. Click **New Rule…**
 2. Select **Program** → Next
+   
 <img width="712" height="579" alt="Screenshot 2025-10-29 154243" src="https://github.com/user-attachments/assets/502edad8-7775-4b2e-a946-f3b36af6f226" />
 
 3. Choose **This program path:** and browse to your app :
