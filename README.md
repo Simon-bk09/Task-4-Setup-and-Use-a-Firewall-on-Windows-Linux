@@ -63,7 +63,8 @@ Configure and test basic **firewall rules** to allow or block specific **program
 
 ### Step 2: Create a Rule to Block a Program
 1. Click **New Rule…**
-2. Select **Program** → Next<img width="715" height="577" alt="Screenshot 2025-10-29 155348" src="https://github.com/user-attachments/assets/dc72e285-c494-45f0-97e3-526b93176c1e" />
+2. Select **Program** → Next
+<img width="715" height="577" alt="Screenshot 2025-10-29 155348" src="https://github.com/user-attachments/assets/dc72e285-c494-45f0-97e3-526b93176c1e" />
 
 3. Choose **This program path:** and browse to your app :
 <img width="714" height="581" alt="Screenshot 2025-10-29 155534" src="https://github.com/user-attachments/assets/3b553d55-533e-4f9b-9cd6-5b2eabb836d1" />
